@@ -5,5 +5,19 @@
 
   
   The answer (path) will be writted with 8's and walls will be 1's with 0's being free open spots to traverse; this will be printed to console. The walls of the area to traverse will be randomly assigned on runtime. Current version doesn't request user input and goes from top left to bottom right.
+
+
+----------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CPP_ConsoleBFS/assets/76754592/0aaaf75b-04e0-41d3-b2b0-12f14e674c2c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ConsoleBFS/assets/76754592/0aaaf75b-04e0-41d3-b2b0-12f14e674c2c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ConsoleBFS/assets/76754592/0aaaf75b-04e0-41d3-b2b0-12f14e674c2c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_ConsoleBFS/assets/76754592/0aaaf75b-04e0-41d3-b2b0-12f14e674c2c" alt="Cornstarch <3" width="55" height="49">
+
+
+**The Breakdown:**
+
+
+
+----------------------------------------------
+
+**Features:**
   
   ![2024-01-1017-44-45-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_ConsoleBFS/assets/76754592/e2360d48-6231-44fa-aee8-c035ea878263)
