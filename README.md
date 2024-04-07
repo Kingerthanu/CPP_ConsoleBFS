@@ -24,7 +24,7 @@
 
   Each Block Will Have Its Coorindates As Well As Setters And Getters For Its Type And State. Also We Will Make This A Linked Structure By Having It Store A Member To Its Previous Node In Our Linked Traversal.
 
-  The Blocks Also Themselves Don't Call Their Draw Functionality, With This Being Relegated To Our Main Loop. As The Maps Print Function Will "Draw" Our Map But Will Use Its Type ID To Define Its Shape/Type (With '8' Being The Final, Shortest Path Found By BFS Algo.).
+  The Blocks Also Themselves Don't Call Their Draw Functionality, With This Being Relegated To Our Main Loop. As The Maps Print Function Will "Draw" Our Map But Will Use Its Type ID To Define Its Shape/Type (With '7' Being The Final, Shortest Path Found By BFS Algo.).
 
   The Breadth First Traversal Will Be Done In Our Map Class In Which We Will Use A Queue Struct To Prioritize Traversals. At The End Of The BFS We Will Either Return A Nullptr For A Invalid Path Or A Pointer To The Last Node In Our Traversal. This Last Node By The End Will Be Linked Fully By Its this->prev ptr In Which Will Backtrack Us Through The Path Found.
 
